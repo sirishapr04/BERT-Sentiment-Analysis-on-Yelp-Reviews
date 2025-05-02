@@ -52,6 +52,9 @@ Elite users' ratings are consistently higher and more stable (steady increase fr
 
 Non-elite users show greater volatility (decline after 2019)
 
+![image](https://github.com/user-attachments/assets/f93d7cb3-bbc5-4140-b3e9-d1a0a6d6b0e9)
+
+
 ### Review Characteristics
 
 Textual content analysis (Review Length): Elite reviews are almost 2x longer (85 vs 47 words)
