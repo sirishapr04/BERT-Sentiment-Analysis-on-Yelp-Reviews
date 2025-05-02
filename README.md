@@ -83,6 +83,9 @@ Ratings often mismatch with actual review sentiment
 
 Inconsistencies from user biases and mixed reviews
 
+![image](https://github.com/user-attachments/assets/cd7e6ca8-d6d0-41b2-ab96-2add7d5208a7)
+Positive sentiment but low star rating – traditional metrics can mislead!
+
 ### New Success Metrics (Text-Based)
 
 Positive Review Ratio: Positive reviews / Total reviews
